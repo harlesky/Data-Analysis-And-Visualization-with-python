@@ -4,3 +4,6 @@
 [submodule "mean-variance-standard-deviation-calculator"]
 	path = mean-variance-standard-deviation-calculator
 	url = https://github.com/harlesky/boilerplate-mean-variance-standard-deviation-calculator.git
+[submodule "medical-data-visualizer"]
+	path = medical-data-visualizer
+	url = https://github.com/harlesky/boilerplate-medical-data-visualizer.git
