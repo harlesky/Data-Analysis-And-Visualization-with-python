@@ -1,6 +1,5 @@
 # Data-Analysis-And-Visualization-with-python 🐍📊
-FreeCodeCamp Project on the course Data Visualisation with Python
-This repository contains various Python projects focused on data analysis, using libraries like NumPy, Pandas, and Matplotlib.
+FreeCodeCamp Project on the course Data Visualisation with Python: This repository contains various Python projects focused on data analysis, using libraries like NumPy, Pandas, and Matplotlib.
 
 ## Projects Included
 1. Mean, Variance, Standard Deviation Calculator
