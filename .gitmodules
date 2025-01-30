@@ -1,3 +1,6 @@
 [submodule "demographic-data-analyzer"]
 	path = demographic-data-analyzer
 	url = https://github.com/harlesky/boilerplate-demographic-data-analyzer.git
+[submodule "mean-variance-standard-deviation-calculator"]
+	path = mean-variance-standard-deviation-calculator
+	url = https://github.com/harlesky/boilerplate-mean-variance-standard-deviation-calculator.git
