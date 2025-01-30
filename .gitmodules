@@ -1,0 +1,3 @@
+[submodule "demographic-data-analyzer"]
+	path = demographic-data-analyzer
+	url = https://github.com/harlesky/boilerplate-demographic-data-analyzer.git
