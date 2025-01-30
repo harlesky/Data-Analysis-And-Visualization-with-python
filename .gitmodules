@@ -7,3 +7,6 @@
 [submodule "medical-data-visualizer"]
 	path = medical-data-visualizer
 	url = https://github.com/harlesky/boilerplate-medical-data-visualizer.git
+[submodule "page-view-time-series-visualizer"]
+	path = page-view-time-series-visualizer
+	url = https://github.com/harlesky/boilerplate-page-view-time-series-visualizer.git
