@@ -10,3 +10,6 @@
 [submodule "page-view-time-series-visualizer"]
 	path = page-view-time-series-visualizer
 	url = https://github.com/harlesky/boilerplate-page-view-time-series-visualizer.git
+[submodule "sea-level-predictor"]
+	path = sea-level-predictor
+	url = https://github.com/harlesky/boilerplate-sea-level-predictor.git
